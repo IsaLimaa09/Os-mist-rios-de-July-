@@ -1,4 +1,16 @@
-body{
+body {
     background-color: rgb(252, 165, 180);
     color: white;
+    font-family: "Mate", system-ui;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(185, 105, 105);
+    color: white;
+    font-family: "Mate", system-ui;
 }
